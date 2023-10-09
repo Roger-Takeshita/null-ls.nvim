@@ -19,7 +19,6 @@ return h.make_builtin({
             "-a",
             "-f",
             "quiet",
-            "--stderr",
             "--stdin",
             "$FILENAME",
         },
